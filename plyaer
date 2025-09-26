@@ -15,3 +15,29 @@
   "trend": "Pain level of the first reported injury, if any",
   "frequency": "Number of diary entries player submitted in the past 1 month"
 }
+---
+Coach data fields:
+{
+  "type": "CoachSeoBio",
+  "fields": {
+    "userId": "Unique identifier of the coach",
+    "firstName": "Coach's first name",
+    "lastName": "Coach's last name",
+    "year": "Year of birth",
+    "city": "City of birth or residence",
+    "country": "Country of birth or residence",
+    "position": "Coach's role or position",
+    "currentClub": "Current club name (if any)",
+    "currentTeamName": "Name of the team within the club (if any)",
+    "bioUrl": "Coach's public profile URL on Zporter",
+    "education": "Level of education the coach has",
+    "managementStyle": "Style of leadership/management",
+    "expLevel": "Coach's experience level",
+    "friendCount": "Number of users who are friends with the coach",
+    "fanCount": "Number of users who are fans of the coach",
+    "followCount": "Number of users following the coach",
+    "lastTrainingText": "Formatted summary of last training activity",
+    "lastMatchText": "Formatted summary of last match activity",
+    "formattedSeoBio": "Final full SEO-formatted biography text"
+  }
+}
