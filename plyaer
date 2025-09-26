@@ -1,0 +1,17 @@
+{
+  "username": "Player's username",
+  "fullName": "Full name of the player",
+  "faceImage": "URL to player's face image",
+  "userId": "Unique user identifier of the player",
+  "isOnline": "Boolean indicating if the player is online",
+  "diaryId": "Unique ID of the latest diary or original diary entry",
+  "socialLife": "Diary input related to player's social life",
+  "eatAndDrink": "Diary input related to eating and drinking habits",
+  "energyLevel": "Player's self-reported energy level in diary",
+  "sleep": "Sleep quality or quantity reported in diary",
+  "createdAt": "Timestamp of diary creation",
+  "updatedAt": "Timestamp of last update to the diary",
+  "injuries": "YES or NO — whether any injuries were reported",
+  "trend": "Pain level of the first reported injury, if any",
+  "frequency": "Number of diary entries player submitted in the past 1 month"
+}
